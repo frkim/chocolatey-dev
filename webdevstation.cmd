@@ -13,7 +13,6 @@ choco install -y -f git.install
 choco install -y -f github-desktop
 choco install -y -f gom-player
 choco install -y -f googlechrome
-choco install -y -f icofx
 choco install -y -f jq
 choco install -y -f greenshot
 choco install -y -f k-litecodecpackfull
